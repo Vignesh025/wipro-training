@@ -1,0 +1,14 @@
+E:\Wipro\Practice\SingletonDemo\bin\Debug\net8.0\SingletonDemo.exe
+E:\Wipro\Practice\SingletonDemo\bin\Debug\net8.0\SingletonDemo.deps.json
+E:\Wipro\Practice\SingletonDemo\bin\Debug\net8.0\SingletonDemo.runtimeconfig.json
+E:\Wipro\Practice\SingletonDemo\bin\Debug\net8.0\SingletonDemo.dll
+E:\Wipro\Practice\SingletonDemo\bin\Debug\net8.0\SingletonDemo.pdb
+E:\Wipro\Practice\SingletonDemo\obj\Debug\net8.0\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\Practice\SingletonDemo\obj\Debug\net8.0\SingletonDemo.AssemblyInfoInputs.cache
+E:\Wipro\Practice\SingletonDemo\obj\Debug\net8.0\SingletonDemo.AssemblyInfo.cs
+E:\Wipro\Practice\SingletonDemo\obj\Debug\net8.0\SingletonDemo.csproj.CoreCompileInputs.cache
+E:\Wipro\Practice\SingletonDemo\obj\Debug\net8.0\SingletonDemo.dll
+E:\Wipro\Practice\SingletonDemo\obj\Debug\net8.0\refint\SingletonDemo.dll
+E:\Wipro\Practice\SingletonDemo\obj\Debug\net8.0\SingletonDemo.pdb
+E:\Wipro\Practice\SingletonDemo\obj\Debug\net8.0\SingletonDemo.genruntimeconfig.cache
+E:\Wipro\Practice\SingletonDemo\obj\Debug\net8.0\ref\SingletonDemo.dll

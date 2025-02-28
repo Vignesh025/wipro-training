@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vignesh\\source\\repos\\Dependency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1BBE96-1034-4FCB-8884-5E1C37E91B93}|Dependency\\Dependency.csproj|c:\\users\\vignesh\\source\\repos\\dependency\\dependency\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1BBE96-1034-4FCB-8884-5E1C37E91B93}|Dependency\\Dependency.csproj|solutionrelative:dependency\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1BBE96-1034-4FCB-8884-5E1C37E91B93}|Dependency\\Dependency.csproj|c:\\users\\vignesh\\source\\repos\\dependency\\dependency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1BBE96-1034-4FCB-8884-5E1C37E91B93}|Dependency\\Dependency.csproj|solutionrelative:dependency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1BBE96-1034-4FCB-8884-5E1C37E91B93}|Dependency\\Dependency.csproj|c:\\users\\vignesh\\source\\repos\\dependency\\dependency\\paymentprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1BBE96-1034-4FCB-8884-5E1C37E91B93}|Dependency\\Dependency.csproj|solutionrelative:dependency\\paymentprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\Vignesh\\source\\repos\\Dependency\\Dependency\\PaymentProcessing.cs",
+              "RelativeDocumentMoniker": "Dependency\\PaymentProcessing.cs",
+              "ToolTip": "C:\\Users\\Vignesh\\source\\repos\\Dependency\\Dependency\\PaymentProcessing.cs",
+              "RelativeToolTip": "Dependency\\PaymentProcessing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:32:20.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ipayment.cs",
+              "DocumentMoniker": "C:\\Users\\Vignesh\\source\\repos\\Dependency\\Dependency\\Ipayment.cs",
+              "RelativeDocumentMoniker": "Dependency\\Ipayment.cs",
+              "ToolTip": "C:\\Users\\Vignesh\\source\\repos\\Dependency\\Dependency\\Ipayment.cs",
+              "RelativeToolTip": "Dependency\\Ipayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:30:02.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vignesh\\source\\repos\\Dependency\\Dependency\\Program.cs",
+              "RelativeDocumentMoniker": "Dependency\\Program.cs",
+              "ToolTip": "C:\\Users\\Vignesh\\source\\repos\\Dependency\\Dependency\\Program.cs",
+              "RelativeToolTip": "Dependency\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:25:33.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

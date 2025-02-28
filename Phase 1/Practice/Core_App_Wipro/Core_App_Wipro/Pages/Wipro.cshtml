@@ -1,0 +1,35 @@
+﻿@page
+@model Core_App_Wipro.Pages.WiproModel
+@{
+}
+
+<h1> Welcome to Wipro</h1>
+
+<h2>@DateTime.Now.ToShortDateString()</h2>
+
+
+@{
+    var message = "Hello, Razor!";
+    var currentTime = DateTime.Now;
+    var numbers = new List<int> { 1, 2, 3, 4, 5 };
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Razor Syntax Example</title>
+</head>
+<body>
+    <h1>@message</h1>
+    <p>Current Time: @currentTime</p>
+
+    <ul>
+        @{
+            foreach (var number in numbers)
+            {
+                <li>@number</li>
+            }
+        }
+    </ul>
+</body>
+</html>

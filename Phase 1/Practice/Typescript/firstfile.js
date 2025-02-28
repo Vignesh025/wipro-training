@@ -1,0 +1,11 @@
+console.log("First Typescript");
+var message = "Hello world";
+console.log(message);
+var Name = "john";
+var s1 = 1;
+var s2 = 1;
+var sum = s1 + s2;
+console.log(Name);
+console.log(s1);
+console.log(s2);
+console.log(sum);

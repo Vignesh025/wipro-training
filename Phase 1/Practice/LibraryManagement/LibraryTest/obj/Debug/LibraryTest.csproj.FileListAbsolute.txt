@@ -1,0 +1,17 @@
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\LibraryTest.dll
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\LibraryTest.pdb
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\LibraryManagement.dll
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\LibraryManagement.pdb
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\obj\Debug\LibraryTest.csproj.AssemblyReference.cache
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\obj\Debug\LibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\obj\Debug\LibraryT.314A797A.Up2Date
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\obj\Debug\LibraryTest.dll
+C:\Users\Vignesh\source\repos\LibraryManagement\LibraryTest\obj\Debug\LibraryTest.pdb

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\Practice\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22BD233A-BEC7-45CA-A76F-98F05FB84906}|StudentAttendenceDemo\\StudentAttendenceDemo.csproj|e:\\wipro\\practice\\webapplication2\\studentattendencedemo\\controllers\\studentattendencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BD233A-BEC7-45CA-A76F-98F05FB84906}|StudentAttendenceDemo\\StudentAttendenceDemo.csproj|solutionrelative:studentattendencedemo\\controllers\\studentattendencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E607CDEB-D484-48DA-B2C6-3AF1A8B85B3E}|WebApplication2\\StudentAdmissionDemo.csproj|e:\\wipro\\practice\\webapplication2\\webapplication2\\controllers\\studentadmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E607CDEB-D484-48DA-B2C6-3AF1A8B85B3E}|WebApplication2\\StudentAdmissionDemo.csproj|solutionrelative:webapplication2\\controllers\\studentadmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BD233A-BEC7-45CA-A76F-98F05FB84906}|StudentAttendenceDemo\\StudentAttendenceDemo.csproj|e:\\wipro\\practice\\webapplication2\\studentattendencedemo\\models\\studentattendencedetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BD233A-BEC7-45CA-A76F-98F05FB84906}|StudentAttendenceDemo\\StudentAttendenceDemo.csproj|solutionrelative:studentattendencedemo\\models\\studentattendencedetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E607CDEB-D484-48DA-B2C6-3AF1A8B85B3E}|WebApplication2\\WebApplication2.csproj|e:\\wipro\\practice\\webapplication2\\webapplication2\\models\\studentadmissiondetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E607CDEB-D484-48DA-B2C6-3AF1A8B85B3E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\studentadmissiondetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAttendenceController.cs",
+              "DocumentMoniker": "E:\\Wipro\\Practice\\WebApplication2\\StudentAttendenceDemo\\Controllers\\StudentAttendenceController.cs",
+              "RelativeDocumentMoniker": "StudentAttendenceDemo\\Controllers\\StudentAttendenceController.cs",
+              "ToolTip": "E:\\Wipro\\Practice\\WebApplication2\\StudentAttendenceDemo\\Controllers\\StudentAttendenceController.cs",
+              "RelativeToolTip": "StudentAttendenceDemo\\Controllers\\StudentAttendenceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:05:31.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentAdmissionController.cs",
+              "DocumentMoniker": "E:\\Wipro\\Practice\\WebApplication2\\WebApplication2\\Controllers\\StudentAdmissionController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\StudentAdmissionController.cs",
+              "ToolTip": "E:\\Wipro\\Practice\\WebApplication2\\WebApplication2\\Controllers\\StudentAdmissionController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\StudentAdmissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:54:59.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentAttendenceDetailsModel.cs",
+              "DocumentMoniker": "E:\\Wipro\\Practice\\WebApplication2\\StudentAttendenceDemo\\Models\\StudentAttendenceDetailsModel.cs",
+              "RelativeDocumentMoniker": "StudentAttendenceDemo\\Models\\StudentAttendenceDetailsModel.cs",
+              "ToolTip": "E:\\Wipro\\Practice\\WebApplication2\\StudentAttendenceDemo\\Models\\StudentAttendenceDetailsModel.cs",
+              "RelativeToolTip": "StudentAttendenceDemo\\Models\\StudentAttendenceDetailsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:46:10.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentAdmissionDetailsModel.cs",
+              "DocumentMoniker": "E:\\Wipro\\Practice\\WebApplication2\\WebApplication2\\Models\\StudentAdmissionDetailsModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\StudentAdmissionDetailsModel.cs",
+              "ToolTip": "E:\\Wipro\\Practice\\WebApplication2\\WebApplication2\\Models\\StudentAdmissionDetailsModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\StudentAdmissionDetailsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:42:49.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

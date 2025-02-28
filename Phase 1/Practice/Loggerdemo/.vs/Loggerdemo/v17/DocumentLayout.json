@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\Practice\\Loggerdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B57E9F2-6D5F-43CA-9253-B40BCF8F6C9B}|Loggerdemo\\Loggerdemo.csproj|e:\\wipro\\practice\\loggerdemo\\loggerdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B57E9F2-6D5F-43CA-9253-B40BCF8F6C9B}|Loggerdemo\\Loggerdemo.csproj|solutionrelative:loggerdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B57E9F2-6D5F-43CA-9253-B40BCF8F6C9B}|Loggerdemo\\Loggerdemo.csproj|e:\\wipro\\practice\\loggerdemo\\loggerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B57E9F2-6D5F-43CA-9253-B40BCF8F6C9B}|Loggerdemo\\Loggerdemo.csproj|solutionrelative:loggerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Wipro\\Practice\\Loggerdemo\\Loggerdemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Loggerdemo\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Wipro\\Practice\\Loggerdemo\\Loggerdemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Loggerdemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:12:22.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\Practice\\Loggerdemo\\Loggerdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Loggerdemo\\Program.cs",
+              "ToolTip": "E:\\Wipro\\Practice\\Loggerdemo\\Loggerdemo\\Program.cs",
+              "RelativeToolTip": "Loggerdemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:06:02.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

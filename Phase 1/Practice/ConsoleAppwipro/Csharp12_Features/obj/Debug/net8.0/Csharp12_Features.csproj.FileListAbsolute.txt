@@ -1,0 +1,14 @@
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\bin\Debug\net8.0\Csharp12_Features.exe
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\bin\Debug\net8.0\Csharp12_Features.deps.json
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\bin\Debug\net8.0\Csharp12_Features.runtimeconfig.json
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\bin\Debug\net8.0\Csharp12_Features.dll
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\bin\Debug\net8.0\Csharp12_Features.pdb
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\obj\Debug\net8.0\Csharp12_Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\obj\Debug\net8.0\Csharp12_Features.AssemblyInfoInputs.cache
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\obj\Debug\net8.0\Csharp12_Features.AssemblyInfo.cs
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\obj\Debug\net8.0\Csharp12_Features.csproj.CoreCompileInputs.cache
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\obj\Debug\net8.0\Csharp12_Features.dll
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\obj\Debug\net8.0\refint\Csharp12_Features.dll
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\obj\Debug\net8.0\Csharp12_Features.pdb
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\obj\Debug\net8.0\Csharp12_Features.genruntimeconfig.cache
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Csharp12_Features\obj\Debug\net8.0\ref\Csharp12_Features.dll

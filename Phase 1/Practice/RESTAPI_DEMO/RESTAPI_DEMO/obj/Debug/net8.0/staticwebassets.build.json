@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qS1E/Cjju+60Avs5R6PtVs9TMl/QJyZxSXCP/KEKWVU=",
+  "Source": "RESTAPI_DEMO",
+  "BasePath": "_content/RESTAPI_DEMO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

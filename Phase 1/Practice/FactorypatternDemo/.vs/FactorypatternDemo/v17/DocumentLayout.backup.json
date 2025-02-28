@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\Practice\\FactorypatternDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8653ABC-28A9-4ECC-B207-9212C35693DA}|FactorypatternDemo.csproj|e:\\wipro\\practice\\factorypatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8653ABC-28A9-4ECC-B207-9212C35693DA}|FactorypatternDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8653ABC-28A9-4ECC-B207-9212C35693DA}|FactorypatternDemo.csproj|e:\\wipro\\practice\\factorypatterndemo\\mobilefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8653ABC-28A9-4ECC-B207-9212C35693DA}|FactorypatternDemo.csproj|solutionrelative:mobilefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8653ABC-28A9-4ECC-B207-9212C35693DA}|FactorypatternDemo.csproj|e:\\wipro\\practice\\factorypatterndemo\\imobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8653ABC-28A9-4ECC-B207-9212C35693DA}|FactorypatternDemo.csproj|solutionrelative:imobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MobileFactory.cs",
+              "DocumentMoniker": "E:\\Wipro\\Practice\\FactorypatternDemo\\MobileFactory.cs",
+              "RelativeDocumentMoniker": "MobileFactory.cs",
+              "ToolTip": "E:\\Wipro\\Practice\\FactorypatternDemo\\MobileFactory.cs",
+              "RelativeToolTip": "MobileFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:16:01.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMobile.cs",
+              "DocumentMoniker": "E:\\Wipro\\Practice\\FactorypatternDemo\\IMobile.cs",
+              "RelativeDocumentMoniker": "IMobile.cs",
+              "ToolTip": "E:\\Wipro\\Practice\\FactorypatternDemo\\IMobile.cs",
+              "RelativeToolTip": "IMobile.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:12:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\Practice\\FactorypatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Wipro\\Practice\\FactorypatternDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T04:42:27.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

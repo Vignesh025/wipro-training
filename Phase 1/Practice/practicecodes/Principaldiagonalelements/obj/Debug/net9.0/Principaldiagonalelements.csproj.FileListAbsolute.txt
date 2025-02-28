@@ -1,0 +1,14 @@
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\bin\Debug\net9.0\Principaldiagonalelements.exe
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\bin\Debug\net9.0\Principaldiagonalelements.deps.json
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\bin\Debug\net9.0\Principaldiagonalelements.runtimeconfig.json
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\bin\Debug\net9.0\Principaldiagonalelements.dll
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\bin\Debug\net9.0\Principaldiagonalelements.pdb
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\obj\Debug\net9.0\Principaldiagonalelements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\obj\Debug\net9.0\Principaldiagonalelements.AssemblyInfoInputs.cache
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\obj\Debug\net9.0\Principaldiagonalelements.AssemblyInfo.cs
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\obj\Debug\net9.0\Principaldiagonalelements.csproj.CoreCompileInputs.cache
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\obj\Debug\net9.0\Principaldiagonalelements.dll
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\obj\Debug\net9.0\refint\Principaldiagonalelements.dll
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\obj\Debug\net9.0\Principaldiagonalelements.pdb
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\obj\Debug\net9.0\Principaldiagonalelements.genruntimeconfig.cache
+E:\Wipro\Practice\practicecodes\Principaldiagonalelements\obj\Debug\net9.0\ref\Principaldiagonalelements.dll

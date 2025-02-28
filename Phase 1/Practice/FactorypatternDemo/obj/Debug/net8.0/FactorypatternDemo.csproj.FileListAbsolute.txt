@@ -1,0 +1,14 @@
+E:\Wipro\Practice\FactorypatternDemo\bin\Debug\net8.0\FactorypatternDemo.exe
+E:\Wipro\Practice\FactorypatternDemo\bin\Debug\net8.0\FactorypatternDemo.deps.json
+E:\Wipro\Practice\FactorypatternDemo\bin\Debug\net8.0\FactorypatternDemo.runtimeconfig.json
+E:\Wipro\Practice\FactorypatternDemo\bin\Debug\net8.0\FactorypatternDemo.dll
+E:\Wipro\Practice\FactorypatternDemo\bin\Debug\net8.0\FactorypatternDemo.pdb
+E:\Wipro\Practice\FactorypatternDemo\obj\Debug\net8.0\FactorypatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\Practice\FactorypatternDemo\obj\Debug\net8.0\FactorypatternDemo.AssemblyInfoInputs.cache
+E:\Wipro\Practice\FactorypatternDemo\obj\Debug\net8.0\FactorypatternDemo.AssemblyInfo.cs
+E:\Wipro\Practice\FactorypatternDemo\obj\Debug\net8.0\FactorypatternDemo.csproj.CoreCompileInputs.cache
+E:\Wipro\Practice\FactorypatternDemo\obj\Debug\net8.0\FactorypatternDemo.dll
+E:\Wipro\Practice\FactorypatternDemo\obj\Debug\net8.0\refint\FactorypatternDemo.dll
+E:\Wipro\Practice\FactorypatternDemo\obj\Debug\net8.0\FactorypatternDemo.pdb
+E:\Wipro\Practice\FactorypatternDemo\obj\Debug\net8.0\FactorypatternDemo.genruntimeconfig.cache
+E:\Wipro\Practice\FactorypatternDemo\obj\Debug\net8.0\ref\FactorypatternDemo.dll

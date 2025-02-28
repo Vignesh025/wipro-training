@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D88879C-B217-4980-A43A-E0E82CC50580}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ConsoleAppwipro</RootNamespace>
+    <AssemblyName>ConsoleAppwipro</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Day2\array_demo.cs" />
+    <Compile Include="Day2\commandlinecalculatordemo.cs" />
+    <Compile Include="Day1\boxing_unboxing_demo.cs" />
+    <Compile Include="Day1\nullable_types_demo.cs" />
+    <Compile Include="Day1\string_stringbuilder-demo.cs" />
+    <Compile Include="Day1\Program.cs" />
+    <Compile Include="Day2\if_switch_demo.cs" />
+    <Compile Include="Day2\loops_demo.cs" />
+    <Compile Include="Day3\methods_demo.cs" />
+    <Compile Include="Day3\methods_demo2.cs" />
+    <Compile Include="Day3\Namespace Practice\Factorial_demo.cs" />
+    <Compile Include="Day3\Namespace Practice\Fibonacci_demo.cs" />
+    <Compile Include="Day3\Namespace Practice\Isprime_demo.cs" />
+    <Compile Include="Day3\Namespace Practice\Namespace_demo.cs" />
+    <Compile Include="Day3\namespace_demo.cs" />
+    <Compile Include="Day3\protectedinternal_demo.cs" />
+    <Compile Include="Day4\abstract_demo.cs" />
+    <Compile Include="Day4\Exceptional_handling_demo.cs" />
+    <Compile Include="Day4\Inheritance_demo.cs" />
+    <Compile Include="Day4\interface_demo.cs" />
+    <Compile Include="Day4\polymorphism_demo.cs" />
+    <Compile Include="Day4\struct_enum_demo.cs" />
+    <Compile Include="Day5\abstraction_demo.cs" />
+    <Compile Include="Day5\Collections_demo.cs" />
+    <Compile Include="Day5\Constructor_demo.cs" />
+    <Compile Include="Day5\Filehandling_demo.cs" />
+    <Compile Include="Day5\Properties_demo.cs" />
+    <Compile Include="Day5\Static_keyword_demo.cs" />
+    <Compile Include="Day6\Csharp7_Extension_method.cs" />
+    <Compile Include="Day6\Exception_handling_demo.cs" />
+    <Compile Include="Day6\indexers_demo.cs" />
+    <Compile Include="Day6\Searching_algorithms_demo.cs" />
+    <Compile Include="Day6\Sorting_algorithms_demo.cs" />
+    <Compile Include="Day7\Delegates_demo.cs" />
+    <Compile Include="Day7\Evente_demo.cs" />
+    <Compile Include="Day7\Generics_class_method_field_demo.cs" />
+    <Compile Include="Day7\Threading _demo.cs" />
+    <Compile Include="Day8\Async_await_demo.cs" />
+    <Compile Include="Day8\Lambda_expressions_demo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

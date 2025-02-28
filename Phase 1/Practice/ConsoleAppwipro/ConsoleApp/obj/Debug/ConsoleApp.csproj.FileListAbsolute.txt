@@ -1,0 +1,10 @@
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleApp\bin\Debug\Unit test.dll
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleApp\bin\Debug\Unit test.pdb
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleApp\obj\Debug\ConsoleApp.csproj.Up2Date
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleApp\obj\Debug\ConsoleApp.pdb

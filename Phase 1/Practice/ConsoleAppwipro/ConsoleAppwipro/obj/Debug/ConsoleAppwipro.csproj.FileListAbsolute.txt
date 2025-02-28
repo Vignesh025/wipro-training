@@ -1,0 +1,7 @@
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleAppwipro\bin\Debug\ConsoleAppwipro.exe.config
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleAppwipro\bin\Debug\ConsoleAppwipro.exe
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleAppwipro\bin\Debug\ConsoleAppwipro.pdb
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleAppwipro\obj\Debug\ConsoleAppwipro.csproj.AssemblyReference.cache
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleAppwipro\obj\Debug\ConsoleAppwipro.csproj.CoreCompileInputs.cache
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleAppwipro\obj\Debug\ConsoleAppwipro.exe
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\ConsoleAppwipro\obj\Debug\ConsoleAppwipro.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Unit test\bin\Debug\Unit test.dll
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Unit test\bin\Debug\Unit test.pdb
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Unit test\obj\Debug\BasicMath.csproj.AssemblyReference.cache
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Unit test\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Unit test\obj\Debug\Unit test.dll
+C:\Users\Vignesh\source\repos\ConsoleAppwipro\Unit test\obj\Debug\Unit test.pdb

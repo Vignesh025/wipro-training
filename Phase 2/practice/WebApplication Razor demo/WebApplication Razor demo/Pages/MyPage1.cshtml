@@ -1,0 +1,39 @@
+﻿@page
+@model WebApplication_Razor_demo.Pages.MyPage1Model
+@{
+}
+
+<h1>Welcome to My Page 1</h1>
+@* <h2>@Model.Message</h2> *@
+
+@* <h2>Product List</h2> *@
+
+@* <table class="table"> *@
+@*     <thead> *@
+@*         <tr> *@
+@*             <th>ID</th> *@
+@*             <th>Name</th> *@
+@*             <th>Price</th> *@
+@*         </tr> *@
+@*     </thead> *@
+@*     <tbody> *@
+@*         @foreach (var product in Model.Products) *@
+@*         { *@
+@*             <tr> *@
+@*                 <td>@product.Id</td> *@
+@*                 <td>@product.Name</td> *@
+@*                 <td>@product.Price.ToString("C")</td> <!-- Format as currency --> *@
+@*             </tr> *@
+@*         } *@
+@*     </tbody> *@
+@* </table> *@
+
+<form method="post" action="Post">
+    <button type="submit">Send Post request</button>
+</form>
+<form method="put" asp-page-handler="Put" action="">
+    <button type="submit">Send Put Request</button>
+</form>
+<form method="delete" asp-page-handler="Delete" action="">
+    <button type="submit">Send Delete Request</button>
+</form>

@@ -1,0 +1,68 @@
+﻿@page
+@model WebApplication_Razor_demo.Pages.ProductsModel
+@{
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product Management</title>
+	<link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Product Management</h1>
+    <h2>Create Product</h2>
+    <form method="post" asp-page-handler="Create">
+        <div>
+            <label>Name:</label>
+            <input asp-for="Product.Name" />
+        </div>
+        <div>
+            <label>Price:</label>
+            <input asp-for="Product.Price" />
+        </div>
+        <div>
+            <label>Quantity:</label>
+            <input asp-for="Product.Quantity" />
+        </div>
+        <button type="submit">Create</button>
+    </form>
+    <h2>Product List</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Quantity</td>
+                <td>
+                <form method="post" asp-page-handler="Edit">
+                            <input type="hidden" asp-for="Product.Id" value="@product.Id" />
+                            <input asp-for="Product.Name" value="@product.Name" />
+                            <input asp-for="Product.Price" value="@product.Price" />
+                            <input asp-for="Product.Quantity" value="@product.Quantity" />
+                            <button type="submit">Edit</button>
+                        </form>
+                        <form method="post" asp-page-handler="Delete" style="display:inline;">
+                            <input type="hidden" name="id" value="@product.Id" />
+                            <button type="submit">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

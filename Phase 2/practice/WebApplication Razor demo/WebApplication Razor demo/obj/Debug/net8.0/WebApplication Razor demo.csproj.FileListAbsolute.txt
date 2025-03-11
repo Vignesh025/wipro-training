@@ -1,0 +1,34 @@
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\WebApplication Razor demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\WebApplication Razor demo.AssemblyInfoInputs.cache
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\WebApplication Razor demo.AssemblyInfo.cs
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\WebApplication Razor demo.csproj.CoreCompileInputs.cache
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\WebApplication Razor demo.MvcApplicationPartsAssemblyInfo.cache
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\WebApplication Razor demo.RazorAssemblyInfo.cache
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\WebApplication Razor demo.RazorAssemblyInfo.cs
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\bin\Debug\net8.0\appsettings.Development.json
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\bin\Debug\net8.0\appsettings.json
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\bin\Debug\net8.0\WebApplication Razor demo.staticwebassets.runtime.json
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\bin\Debug\net8.0\WebApplication Razor demo.staticwebassets.endpoints.json
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\bin\Debug\net8.0\WebApplication Razor demo.exe
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\bin\Debug\net8.0\WebApplication Razor demo.deps.json
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\bin\Debug\net8.0\WebApplication Razor demo.runtimeconfig.json
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\bin\Debug\net8.0\WebApplication Razor demo.dll
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\bin\Debug\net8.0\WebApplication Razor demo.pdb
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\scopedcss\bundle\WebApplication Razor demo.styles.css
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication Razor demo.bundle.scp.css
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\staticwebassets.build.json
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\staticwebassets.development.json
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication Razor demo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication Razor demo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication Razor demo.props
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication Razor demo.props
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication Razor demo.props
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\WebApplication Razor demo.dll
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\refint\WebApplication Razor demo.dll
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\WebApplication Razor demo.pdb
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\WebApplication Razor demo.genruntimeconfig.cache
+E:\Wipro\Practice\WebApplication Razor demo\WebApplication Razor demo\obj\Debug\net8.0\ref\WebApplication Razor demo.dll

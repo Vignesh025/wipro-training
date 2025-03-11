@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ClassLibrary1/1.0.0": {
+        "dependencies": {
+          "NUnit": "2.5.7.10213",
+          "NUnit3TestAdapter": "4.6.0"
+        },
+        "runtime": {
+          "ClassLibrary1.dll": {}
+        }
+      },
+      "NUnit/2.5.7.10213": {
+        "runtime": {
+          "lib/nunit.framework.dll": {
+            "assemblyVersion": "2.5.7.10213",
+            "fileVersion": "2.5.7.10213"
+          },
+          "lib/nunit.mocks.dll": {
+            "assemblyVersion": "2.5.7.10213",
+            "fileVersion": "2.5.7.10213"
+          },
+          "lib/pnunit.framework.dll": {
+            "assemblyVersion": "1.0.3865.21394",
+            "fileVersion": "1.0.3865.21394"
+          }
+        }
+      },
+      "NUnit3TestAdapter/4.6.0": {}
+    }
+  },
+  "libraries": {
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit/2.5.7.10213": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4aEVHJ3K6SRvmnUn630f6LMy6wfM5tZyMhSSAcMrOs2EspiwI0wsGtTQkFWizqjhNsO+fn0I/ravWZAAVfXpqg==",
+      "path": "nunit/2.5.7.10213",
+      "hashPath": "nunit.2.5.7.10213.nupkg.sha512"
+    },
+    "NUnit3TestAdapter/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R7e1+a4vuV/YS+ItfL7f//rG+JBvVeVLX4mHzFEZo4W1qEKl8Zz27AqvQSAqo+BtIzUCo4aAJMYa56VXS4hudw==",
+      "path": "nunit3testadapter/4.6.0",
+      "hashPath": "nunit3testadapter.4.6.0.nupkg.sha512"
+    }
+  }
+}

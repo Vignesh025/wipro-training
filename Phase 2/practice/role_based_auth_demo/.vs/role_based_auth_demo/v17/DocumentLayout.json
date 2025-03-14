@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wipro\\wipro-training\\Phase 2\\practice\\role_based_auth_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E48713-D289-483C-8F5D-67F2E233412A}|role_based_auth_demo\\role_based_auth_demo.csproj|e:\\wipro\\wipro-training\\phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\models\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E48713-D289-483C-8F5D-67F2E233412A}|role_based_auth_demo\\role_based_auth_demo.csproj|solutionrelative:role_based_auth_demo\\models\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E48713-D289-483C-8F5D-67F2E233412A}|role_based_auth_demo\\role_based_auth_demo.csproj|e:\\wipro\\wipro-training\\phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E48713-D289-483C-8F5D-67F2E233412A}|role_based_auth_demo\\role_based_auth_demo.csproj|solutionrelative:role_based_auth_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E48713-D289-483C-8F5D-67F2E233412A}|role_based_auth_demo\\role_based_auth_demo.csproj|e:\\wipro\\wipro-training\\phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\models\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E48713-D289-483C-8F5D-67F2E233412A}|role_based_auth_demo\\role_based_auth_demo.csproj|solutionrelative:role_based_auth_demo\\models\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E48713-D289-483C-8F5D-67F2E233412A}|role_based_auth_demo\\role_based_auth_demo.csproj|e:\\wipro\\wipro-training\\phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E48713-D289-483C-8F5D-67F2E233412A}|role_based_auth_demo\\role_based_auth_demo.csproj|solutionrelative:role_based_auth_demo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "E:\\Wipro\\wipro-training\\Phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\Models\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "role_based_auth_demo\\Models\\RoleInitializer.cs",
+              "ToolTip": "E:\\Wipro\\wipro-training\\Phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\Models\\RoleInitializer.cs",
+              "RelativeToolTip": "role_based_auth_demo\\Models\\RoleInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:58:47.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Wipro\\wipro-training\\Phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "role_based_auth_demo\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Wipro\\wipro-training\\Phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "role_based_auth_demo\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:52:35.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "E:\\Wipro\\wipro-training\\Phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\Models\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "role_based_auth_demo\\Models\\RoleSeeder.cs",
+              "ToolTip": "E:\\Wipro\\wipro-training\\Phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\Models\\RoleSeeder.cs",
+              "RelativeToolTip": "role_based_auth_demo\\Models\\RoleSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:50:41.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wipro\\wipro-training\\Phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\Program.cs",
+              "RelativeDocumentMoniker": "role_based_auth_demo\\Program.cs",
+              "ToolTip": "E:\\Wipro\\wipro-training\\Phase 2\\practice\\role_based_auth_demo\\role_based_auth_demo\\Program.cs",
+              "RelativeToolTip": "role_based_auth_demo\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:54:38.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
